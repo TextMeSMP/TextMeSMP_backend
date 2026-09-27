@@ -1,0 +1,2082 @@
+[
+    {
+        "role_level":  "lead",
+        "day_number":  1,
+        "title":  "Transitioning from Peer to Leader",
+        "lesson_text":  "Your role has changed—even if your title just did.",
+        "action_text":  "Observe how your behavior influences others today.",
+        "reflection_question":  "Did you operate as a peer or a leader? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  2,
+        "title":  "Transitioning from Peer to Leader",
+        "lesson_text":  "Your reactions now carry more weight than before.",
+        "action_text":  "Handle one stressful moment with visible control.",
+        "reflection_question":  "Did others adjust based on your behavior? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  3,
+        "title":  "Transitioning from Peer to Leader",
+        "lesson_text":  "You don’t need authority to influence—but you do need consistency.",
+        "action_text":  "Stay steady in your behavior all day.",
+        "reflection_question":  "Did your consistency stand out? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  4,
+        "title":  "Transitioning from Peer to Leader",
+        "lesson_text":  "Leaders step in—peers step back.",
+        "action_text":  "Take initiative in a team-related situation.",
+        "reflection_question":  "Did you lead or stay passive? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  5,
+        "title":  "Transitioning from Peer to Leader",
+        "lesson_text":  "You are now part of the solution—not just the workload.",
+        "action_text":  "Help guide one situation today.",
+        "reflection_question":  "Did your involvement improve the outcome? ⸻ 🔥 LEAD — WEEK 2: Awareness of Team Performance ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  6,
+        "title":  "Awareness of Team Performance",
+        "lesson_text":  "Leads notice what others miss.",
+        "action_text":  "Pay attention to who is struggling today.",
+        "reflection_question":  "Did you identify performance gaps? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  7,
+        "title":  "Awareness of Team Performance",
+        "lesson_text":  "Awareness is the first step to influence.",
+        "action_text":  "Observe team behavior—not just your own tasks.",
+        "reflection_question":  "What patterns did you notice? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  8,
+        "title":  "Awareness of Team Performance",
+        "lesson_text":  "Strong leads don’t wait for problems—they see them early.",
+        "action_text":  "Identify one issue before it escalates.",
+        "reflection_question":  "Did early awareness help? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  9,
+        "title":  "Awareness of Team Performance",
+        "lesson_text":  "Your awareness should lead to action.",
+        "action_text":  "Act on something you observed today.",
+        "reflection_question":  "Did you respond or ignore? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  10,
+        "title":  "Awareness of Team Performance",
+        "lesson_text":  "Leads think in terms of team performance—not individual tasks.",
+        "action_text":  "Make one decision that benefits the team.",
+        "reflection_question":  "Did your thinking expand beyond yourself? ⸻ 🔥 LEAD — WEEK 3: Influence Without Authority (Advanced) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  11,
+        "title":  "Influence Without Authority (Advanced)",
+        "lesson_text":  "Influence is built through behavior—not instruction.",
+        "action_text":  "Model a strong behavior instead of pointing it out.",
+        "reflection_question":  "Did others respond to your actions? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  12,
+        "title":  "Influence Without Authority (Advanced)",
+        "lesson_text":  "People resist control—but follow consistency.",
+        "action_text":  "Be consistent in how you show up.",
+        "reflection_question":  "Did consistency build influence? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  13,
+        "title":  "Influence Without Authority (Advanced)",
+        "lesson_text":  "Tone and presence shape influence quickly.",
+        "action_text":  "Stay calm and controlled in all interactions.",
+        "reflection_question":  "Did your presence influence the environment? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  14,
+        "title":  "Influence Without Authority (Advanced)",
+        "lesson_text":  "You don’t need to correct everything—choose your moments.",
+        "action_text":  "Address one key behavior instead of multiple.",
+        "reflection_question":  "Did focus improve your impact? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  15,
+        "title":  "Influence Without Authority (Advanced)",
+        "lesson_text":  "Influence grows when people trust your intent.",
+        "action_text":  "Approach situations with support—not control.",
+        "reflection_question":  "Did your approach build trust? ⸻ 🔥 LEAD — WEEK 4: Coaching in the Moment (Micro-Coaching) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  16,
+        "title":  "Coaching in the Moment (Micro-Coaching)",
+        "lesson_text":  "Coaching doesn’t happen later—it happens in real time.",
+        "action_text":  "Give one piece of immediate feedback today.",
+        "reflection_question":  "Did your timing improve effectiveness? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  17,
+        "title":  "Coaching in the Moment (Micro-Coaching)",
+        "lesson_text":  "Short, clear coaching is more effective than long explanations.",
+        "action_text":  "Keep feedback brief and specific.",
+        "reflection_question":  "Was your message easy to apply? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  18,
+        "title":  "Coaching in the Moment (Micro-Coaching)",
+        "lesson_text":  "Correction without support creates resistance.",
+        "action_text":  "Pair feedback with guidance.",
+        "reflection_question":  "Did your approach encourage improvement? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  19,
+        "title":  "Coaching in the Moment (Micro-Coaching)",
+        "lesson_text":  "People respond better when they feel understood.",
+        "action_text":  "Acknowledge effort before correcting.",
+        "reflection_question":  "Did acknowledgment improve receptiveness? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  20,
+        "title":  "Coaching in the Moment (Micro-Coaching)",
+        "lesson_text":  "Consistency in coaching builds trust.",
+        "action_text":  "Coach consistently—not just when something goes wrong.",
+        "reflection_question":  "Did your coaching feel balanced? ⸻ 🔥 LEAD — WEEK 5: Managing Peer Relationships ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  21,
+        "title":  "Managing Peer Relationships",
+        "lesson_text":  "You are still part of the team—but your role has shifted.",
+        "action_text":  "Maintain professionalism in all peer interactions.",
+        "reflection_question":  "Did your behavior reflect your role? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  22,
+        "title":  "Managing Peer Relationships",
+        "lesson_text":  "Friendship and leadership require balance.",
+        "action_text":  "Set a clear boundary in one situation today.",
+        "reflection_question":  "Did you protect your role? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  23,
+        "title":  "Managing Peer Relationships",
+        "lesson_text":  "Favoritism damages credibility quickly.",
+        "action_text":  "Treat all team members consistently.",
+        "reflection_question":  "Did your actions feel fair? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  24,
+        "title":  "Managing Peer Relationships",
+        "lesson_text":  "Tension is normal during role transitions.",
+        "action_text":  "Address one small tension professionally.",
+        "reflection_question":  "Did clarity improve the relationship? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  25,
+        "title":  "Managing Peer Relationships",
+        "lesson_text":  "Respect is earned through behavior—not title.",
+        "action_text":  "Operate in a way that earns respect today.",
+        "reflection_question":  "Did others respond differently to you? ⸻ 🔥 LEAD — WEEK 6: Communication as a Leader ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  26,
+        "title":  "Communication as a Leader",
+        "lesson_text":  "Your communication now sets the tone for others.",
+        "action_text":  "Be intentional in how you speak today.",
+        "reflection_question":  "Did your tone influence others? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  27,
+        "title":  "Communication as a Leader",
+        "lesson_text":  "Leaders communicate with clarity—not volume.",
+        "action_text":  "Keep your communication direct and structured.",
+        "reflection_question":  "Did clarity improve understanding? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  28,
+        "title":  "Communication as a Leader",
+        "lesson_text":  "Unclear communication creates confusion across the team.",
+        "action_text":  "Give clear direction in one situation today.",
+        "reflection_question":  "Did your message guide action? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  29,
+        "title":  "Communication as a Leader",
+        "lesson_text":  "Tone matters more than words in leadership.",
+        "action_text":  "Maintain a calm, steady tone.",
+        "reflection_question":  "Did your tone stabilize the situation? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  30,
+        "title":  "Communication as a Leader",
+        "lesson_text":  "Leaders repeat important messages consistently.",
+        "action_text":  "Reinforce one key message today.",
+        "reflection_question":  "Did repetition improve alignment? ⸻ 🔥 LEAD — WEEK 7: Accountability Through Influence ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  31,
+        "title":  "Accountability Through Influence",
+        "lesson_text":  "You are now responsible for influencing accountability—not just your own.",
+        "action_text":  "Address one missed expectation today.",
+        "reflection_question":  "Did you handle it directly? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  32,
+        "title":  "Accountability Through Influence",
+        "lesson_text":  "Avoiding accountability weakens your role.",
+        "action_text":  "Correct one behavior you might normally ignore.",
+        "reflection_question":  "Did your action improve standards? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  33,
+        "title":  "Accountability Through Influence",
+        "lesson_text":  "Accountability must be consistent—not selective.",
+        "action_text":  "Hold everyone to the same standard.",
+        "reflection_question":  "Did you stay fair? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  34,
+        "title":  "Accountability Through Influence",
+        "lesson_text":  "Tone determines how accountability is received.",
+        "action_text":  "Keep your tone calm and direct.",
+        "reflection_question":  "Did your message land effectively? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  35,
+        "title":  "Accountability Through Influence",
+        "lesson_text":  "Strong leads address issues early.",
+        "action_text":  "Handle a small issue before it grows.",
+        "reflection_question":  "Did early action help? ⸻ 🔥 LEAD — WEEK 8: Establishing Leadership Presence ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  36,
+        "title":  "Establishing Leadership Presence",
+        "lesson_text":  "Presence is how others experience you as a leader.",
+        "action_text":  "Be intentional with your tone and behavior today.",
+        "reflection_question":  "Did your presence feel controlled? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  37,
+        "title":  "Establishing Leadership Presence",
+        "lesson_text":  "Leaders bring stability to the environment.",
+        "action_text":  "Stay steady during a busy or chaotic moment.",
+        "reflection_question":  "Did others respond to your stability? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  38,
+        "title":  "Establishing Leadership Presence",
+        "lesson_text":  "Consistency builds credibility.",
+        "action_text":  "Maintain your standard all day.",
+        "reflection_question":  "Did your behavior stay consistent? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  39,
+        "title":  "Establishing Leadership Presence",
+        "lesson_text":  "Confidence is communicated through behavior.",
+        "action_text":  "Carry yourself with calm confidence.",
+        "reflection_question":  "Did your behavior reflect leadership? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  40,
+        "title":  "Establishing Leadership Presence",
+        "lesson_text":  "Your presence should elevate the team—not blend in.",
+        "action_text":  "Stand out through strong, controlled behavior.",
+        "reflection_question":  "Did your presence make an impact? ⸻ Let’s build this right—Weeks 9–16 for Leads is where they are either: 👉 become a real leader or 👉 stay an “experienced agent with extra responsibility” This phase is about: •performance management •real coaching •handling tension •leading in real time No overlap with Agent. This is people leadership now. ⸻ 🔥 LEAD — WEEK 9: Driving Team Performance ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  41,
+        "title":  "Driving Team Performance",
+        "lesson_text":  "Your performance still matters—but now the team’s performance matters more.",
+        "action_text":  "Identify one team performance gap today.",
+        "reflection_question":  "Did you notice what needs improvement? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  42,
+        "title":  "Driving Team Performance",
+        "lesson_text":  "Strong leads don’t ignore patterns—they address them.",
+        "action_text":  "Call out one repeated issue you’ve been seeing.",
+        "reflection_question":  "Did you address it or avoid it? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  43,
+        "title":  "Driving Team Performance",
+        "lesson_text":  "Performance issues grow when left unaddressed.",
+        "action_text":  "Take action on a small issue before it becomes bigger.",
+        "reflection_question":  "Did early action make a difference? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  44,
+        "title":  "Driving Team Performance",
+        "lesson_text":  "You influence performance through presence.",
+        "action_text":  "Stay visible and engaged with the team today.",
+        "reflection_question":  "Did your presence impact behavior? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  45,
+        "title":  "Driving Team Performance",
+        "lesson_text":  "Leads improve performance daily—not occasionally.",
+        "action_text":  "Make one small improvement to team performance today.",
+        "reflection_question":  "Did your action move the team forward? ⸻ 🔥 LEAD — WEEK 10: Coaching Consistency ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  46,
+        "title":  "Coaching Consistency",
+        "lesson_text":  "Inconsistent coaching creates inconsistent teams.",
+        "action_text":  "Coach at least one person today—intentionally.",
+        "reflection_question":  "Did you coach consistently? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  47,
+        "title":  "Coaching Consistency",
+        "lesson_text":  "Waiting for major mistakes misses coaching opportunities.",
+        "action_text":  "Coach during normal interactions—not just issues.",
+        "reflection_question":  "Did you coach proactively? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  48,
+        "title":  "Coaching Consistency",
+        "lesson_text":  "Frequent, small coaching beats occasional big corrections.",
+        "action_text":  "Give quick, targeted feedback today.",
+        "reflection_question":  "Was your coaching timely? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  49,
+        "title":  "Coaching Consistency",
+        "lesson_text":  "Coaching should feel normal—not corrective.",
+        "action_text":  "Make coaching part of everyday conversation.",
+        "reflection_question":  "Did your team respond positively? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  50,
+        "title":  "Coaching Consistency",
+        "lesson_text":  "Consistency builds trust in your leadership.",
+        "action_text":  "Show up as a coach all day—not just at moments.",
+        "reflection_question":  "Did your consistency stand out? ⸻ 🔥 LEAD — WEEK 11: Addressing Performance Issues ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  51,
+        "title":  "Addressing Performance Issues",
+        "lesson_text":  "Avoiding performance issues creates bigger problems later.",
+        "action_text":  "Address one performance issue directly today.",
+        "reflection_question":  "Did you handle it or delay it? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  52,
+        "title":  "Addressing Performance Issues",
+        "lesson_text":  "Clarity removes confusion.",
+        "action_text":  "Be specific when addressing an issue.",
+        "reflection_question":  "Did your message land clearly? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  53,
+        "title":  "Addressing Performance Issues",
+        "lesson_text":  "Tone determines how feedback is received.",
+        "action_text":  "Stay calm and direct when addressing performance.",
+        "reflection_question":  "Did your tone support the message? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  54,
+        "title":  "Addressing Performance Issues",
+        "lesson_text":  "Accountability must be consistent.",
+        "action_text":  "Hold everyone to the same standard.",
+        "reflection_question":  "Did you stay fair? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  55,
+        "title":  "Addressing Performance Issues",
+        "lesson_text":  "Leads correct behavior—not people.",
+        "action_text":  "Focus on the behavior, not the individual.",
+        "reflection_question":  "Did your approach stay professional? ⸻ 🔥 LEAD — WEEK 12: Coaching for Improvement (Not Just Correction) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  56,
+        "title":  "Coaching for Improvement (Not Just Correction)",
+        "lesson_text":  "Correction stops mistakes—coaching builds growth.",
+        "action_text":  "Help someone improve—not just fix an issue.",
+        "reflection_question":  "Did your coaching develop skill? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  57,
+        "title":  "Coaching for Improvement (Not Just Correction)",
+        "lesson_text":  "People improve when they understand “why.”",
+        "action_text":  "Explain the reasoning behind your coaching.",
+        "reflection_question":  "Did understanding improve engagement? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  58,
+        "title":  "Coaching for Improvement (Not Just Correction)",
+        "lesson_text":  "Strong coaching builds confidence—not dependency.",
+        "action_text":  "Guide instead of giving the answer.",
+        "reflection_question":  "Did they think or rely on you? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  59,
+        "title":  "Coaching for Improvement (Not Just Correction)",
+        "lesson_text":  "Growth requires reinforcement.",
+        "action_text":  "Recognize improvement when you see it.",
+        "reflection_question":  "Did recognition strengthen behavior? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  60,
+        "title":  "Coaching for Improvement (Not Just Correction)",
+        "lesson_text":  "Your role is to elevate performance—not just maintain it.",
+        "action_text":  "Push someone slightly beyond their comfort zone.",
+        "reflection_question":  "Did you challenge effectively? ⸻ 🔥 LEAD — WEEK 13: Managing Tension on the Team ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  61,
+        "title":  "Managing Tension on the Team",
+        "lesson_text":  "Tension ignored becomes conflict.",
+        "action_text":  "Address one small tension early.",
+        "reflection_question":  "Did early action help? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  62,
+        "title":  "Managing Tension on the Team",
+        "lesson_text":  "Leads don’t take sides—they manage outcomes.",
+        "action_text":  "Stay neutral in a team situation today.",
+        "reflection_question":  "Did neutrality improve the situation? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  63,
+        "title":  "Managing Tension on the Team",
+        "lesson_text":  "Tone determines whether tension escalates.",
+        "action_text":  "Keep your tone steady in a tense moment.",
+        "reflection_question":  "Did your tone control the situation? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  64,
+        "title":  "Managing Tension on the Team",
+        "lesson_text":  "Listening reduces misunderstanding.",
+        "action_text":  "Let both sides fully express themselves.",
+        "reflection_question":  "Did listening improve clarity? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  65,
+        "title":  "Managing Tension on the Team",
+        "lesson_text":  "Resolution is your responsibility.",
+        "action_text":  "Guide a tense situation toward resolution.",
+        "reflection_question":  "Did you move it forward? ⸻ 🔥 LEAD — WEEK 14: Leading in Real-Time (Floor Leadership) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  66,
+        "title":  "Leading in Real-Time (Floor Leadership)",
+        "lesson_text":  "Leadership happens in real time—not in meetings.",
+        "action_text":  "Be actively engaged with your team today.",
+        "reflection_question":  "Did your presence influence performance? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  67,
+        "title":  "Leading in Real-Time (Floor Leadership)",
+        "lesson_text":  "Leads must be visible during key moments.",
+        "action_text":  "Step into a busy or high-pressure moment.",
+        "reflection_question":  "Did your presence stabilize things? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  68,
+        "title":  "Leading in Real-Time (Floor Leadership)",
+        "lesson_text":  "Real-time leadership requires awareness.",
+        "action_text":  "Watch how the team operates—not just results.",
+        "reflection_question":  "What did you notice? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  69,
+        "title":  "Leading in Real-Time (Floor Leadership)",
+        "lesson_text":  "Leaders respond quickly—not react emotionally.",
+        "action_text":  "Make one quick, controlled decision today.",
+        "reflection_question":  "Did your decision help? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  70,
+        "title":  "Leading in Real-Time (Floor Leadership)",
+        "lesson_text":  "The floor reflects the leader.",
+        "action_text":  "Set the tone through your behavior.",
+        "reflection_question":  "Did others follow your lead? ⸻ 🔥 LEAD — WEEK 15: Escalation Leadership ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  71,
+        "title":  "Escalation Leadership",
+        "lesson_text":  "Leads manage situations before escalation is needed.",
+        "action_text":  "Intervene early in a developing issue.",
+        "reflection_question":  "Did you prevent escalation? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  72,
+        "title":  "Escalation Leadership",
+        "lesson_text":  "When escalation happens, clarity matters most.",
+        "action_text":  "Communicate clearly when involving higher support.",
+        "reflection_question":  "Did your communication help resolution? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  73,
+        "title":  "Escalation Leadership",
+        "lesson_text":  "Leads own escalations—not pass them off.",
+        "action_text":  "Stay involved in an escalated issue.",
+        "reflection_question":  "Did you maintain ownership? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  74,
+        "title":  "Escalation Leadership",
+        "lesson_text":  "Escalations are leadership moments.",
+        "action_text":  "Handle one escalation with full control today.",
+        "reflection_question":  "Did you lead effectively? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  75,
+        "title":  "Escalation Leadership",
+        "lesson_text":  "Strong escalation handling builds trust upward.",
+        "action_text":  "Manage communication during escalation carefully.",
+        "reflection_question":  "Did leadership trust your handling? ⸻ 🔥 LEAD — WEEK 16: Establishing Authority Without Force ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  76,
+        "title":  "Establishing Authority Without Force",
+        "lesson_text":  "Authority is built through consistency—not force.",
+        "action_text":  "Maintain your standards without overexplaining.",
+        "reflection_question":  "Did your behavior command respect? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  77,
+        "title":  "Establishing Authority Without Force",
+        "lesson_text":  "Leaders don’t need to prove authority—they demonstrate it.",
+        "action_text":  "Stay calm and confident in your role.",
+        "reflection_question":  "Did your presence reflect authority? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  78,
+        "title":  "Establishing Authority Without Force",
+        "lesson_text":  "Overcorrecting weakens authority.",
+        "action_text":  "Choose your corrections carefully today.",
+        "reflection_question":  "Did you focus on what matters? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  79,
+        "title":  "Establishing Authority Without Force",
+        "lesson_text":  "Respect grows through fairness and consistency.",
+        "action_text":  "Apply standards evenly across the team.",
+        "reflection_question":  "Did your actions feel fair? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  80,
+        "title":  "Establishing Authority Without Force",
+        "lesson_text":  "Authority is sustained through behavior.",
+        "action_text":  "Operate today without needing to assert control verbally.",
+        "reflection_question":  "Did your actions speak for you? ⸻ 🔥 What You Now Have You’ve built: ✔ Lead Weeks 1–16 ✔ Full Foundation + Performance Leadership ✔ Coaching + Accountability + Conflict Handling ✔ Real-world leadership progression ⸻ 🚨 This Is Powerful At this point your Lead curriculum is: 👉 immediately sellable 👉 highly practical 👉 clearly different from generic training ⸻ LEAD — WEEK 17: Ownership of Team Outcomes ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  81,
+        "title":  "Ownership of Team Outcomes",
+        "lesson_text":  "You are no longer responsible for effort—you are responsible for outcomes.",
+        "action_text":  "Identify one team result today that you take ownership of.",
+        "reflection_question":  "Did you own the outcome or observe it? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  82,
+        "title":  "Ownership of Team Outcomes",
+        "lesson_text":  "Leads don’t separate themselves from team performance.",
+        "action_text":  "Step into a situation where performance is slipping.",
+        "reflection_question":  "Did your involvement improve the outcome? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  83,
+        "title":  "Ownership of Team Outcomes",
+        "lesson_text":  "Ownership means acting before being asked.",
+        "action_text":  "Take initiative on a team issue today.",
+        "reflection_question":  "Did you act early or wait? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  84,
+        "title":  "Ownership of Team Outcomes",
+        "lesson_text":  "Strong leads feel responsible for team success.",
+        "action_text":  "Help improve one person’s performance today.",
+        "reflection_question":  "Did your support create progress? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  85,
+        "title":  "Ownership of Team Outcomes",
+        "lesson_text":  "Ownership builds trust upward.",
+        "action_text":  "Communicate a team update proactively.",
+        "reflection_question":  "Did leadership see you as accountable? ⸻ 🔥 LEAD — WEEK 18: Identifying Performance Patterns ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  86,
+        "title":  "Identifying Performance Patterns",
+        "lesson_text":  "One mistake is random patterns reveal the real issue.",
+        "action_text":  "Look for repeated behaviors across your team.",
+        "reflection_question":  "Did you identify a pattern? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  87,
+        "title":  "Identifying Performance Patterns",
+        "lesson_text":  "Patterns require targeted action—not general coaching.",
+        "action_text":  "Address one specific pattern today.",
+        "reflection_question":  "Did your approach match the issue? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  88,
+        "title":  "Identifying Performance Patterns",
+        "lesson_text":  "Ignoring patterns allows them to grow.",
+        "action_text":  "Take action on a trend you’ve noticed.",
+        "reflection_question":  "Did early action help? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  89,
+        "title":  "Identifying Performance Patterns",
+        "lesson_text":  "Strong leads connect behavior to results.",
+        "action_text":  "Explain how a behavior is affecting performance.",
+        "reflection_question":  "Did that connection improve understanding? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  90,
+        "title":  "Identifying Performance Patterns",
+        "lesson_text":  "Pattern recognition is a leadership skill.",
+        "action_text":  "Observe your team more closely today.",
+        "reflection_question":  "What did you notice differently? ⸻ 🔥 LEAD — WEEK 19: Coaching to Close Gaps ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  91,
+        "title":  "Coaching to Close Gaps",
+        "lesson_text":  "Coaching is most effective when it targets specific gaps.",
+        "action_text":  "Identify one clear gap and coach to it.",
+        "reflection_question":  "Was your coaching focused? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  92,
+        "title":  "Coaching to Close Gaps",
+        "lesson_text":  "Vague feedback leads to vague improvement.",
+        "action_text":  "Be precise in your coaching today.",
+        "reflection_question":  "Did clarity improve results? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  93,
+        "title":  "Coaching to Close Gaps",
+        "lesson_text":  "Improvement requires follow-up.",
+        "action_text":  "Revisit a coaching moment from earlier.",
+        "reflection_question":  "Did the behavior improve? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  94,
+        "title":  "Coaching to Close Gaps",
+        "lesson_text":  "Coaching is a process—not a moment.",
+        "action_text":  "Track one person’s progress today.",
+        "reflection_question":  "Did you see movement? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  95,
+        "title":  "Coaching to Close Gaps",
+        "lesson_text":  "Closing gaps builds stronger teams.",
+        "action_text":  "Focus on improvement—not just correction.",
+        "reflection_question":  "Did your coaching create growth? ⸻ 🔥 LEAD — WEEK 20: Driving Accountability Across the Team ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  96,
+        "title":  "Driving Accountability Across the Team",
+        "lesson_text":  "Accountability must be visible to be effective.",
+        "action_text":  "Address a missed expectation today.",
+        "reflection_question":  "Did you handle it directly? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  97,
+        "title":  "Driving Accountability Across the Team",
+        "lesson_text":  "Consistency builds credibility.",
+        "action_text":  "Hold everyone to the same standard.",
+        "reflection_question":  "Did you stay consistent? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  98,
+        "title":  "Driving Accountability Across the Team",
+        "lesson_text":  "Avoiding accountability weakens leadership.",
+        "action_text":  "Handle something you’ve been avoiding.",
+        "reflection_question":  "Did you address it fully? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  99,
+        "title":  "Driving Accountability Across the Team",
+        "lesson_text":  "Tone determines how accountability is received.",
+        "action_text":  "Stay calm and clear when addressing issues.",
+        "reflection_question":  "Did your tone support the message? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  100,
+        "title":  "Driving Accountability Across the Team",
+        "lesson_text":  "Strong accountability improves performance quickly.",
+        "action_text":  "Reinforce expectations clearly today.",
+        "reflection_question":  "Did your message improve behavior? ⸻ 🔥 LEAD — WEEK 21: Understanding Metrics as a Leader ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  101,
+        "title":  "Understanding Metrics as a Leader",
+        "lesson_text":  "Metrics reflect behavior—not just results.",
+        "action_text":  "Connect one team behavior to a performance metric.",
+        "reflection_question":  "Did you see the connection? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  102,
+        "title":  "Understanding Metrics as a Leader",
+        "lesson_text":  "Leads must understand what drives performance.",
+        "action_text":  "Identify one key metric and what impacts it.",
+        "reflection_question":  "Did your understanding improve? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  103,
+        "title":  "Understanding Metrics as a Leader",
+        "lesson_text":  "Improving metrics starts with improving habits.",
+        "action_text":  "Coach one habit tied to performance.",
+        "reflection_question":  "Did it impact results? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  104,
+        "title":  "Understanding Metrics as a Leader",
+        "lesson_text":  "Metrics help you prioritize.",
+        "action_text":  "Focus on what matters most today.",
+        "reflection_question":  "Did prioritization help? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  105,
+        "title":  "Understanding Metrics as a Leader",
+        "lesson_text":  "Leaders think in trends—not isolated numbers.",
+        "action_text":  "Look at performance over time.",
+        "reflection_question":  "What trend did you notice? ⸻ 🔥 LEAD — WEEK 22: Leading Through Performance Pressure ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  106,
+        "title":  "Leading Through Performance Pressure",
+        "lesson_text":  "Pressure reveals your leadership style.",
+        "action_text":  "Stay composed in a high-pressure moment.",
+        "reflection_question":  "Did pressure change your behavior? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  107,
+        "title":  "Leading Through Performance Pressure",
+        "lesson_text":  "Leads absorb pressure—not pass it down.",
+        "action_text":  "Keep your team steady during stress.",
+        "reflection_question":  "Did your behavior stabilize the team? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  108,
+        "title":  "Leading Through Performance Pressure",
+        "lesson_text":  "Your reaction sets the tone.",
+        "action_text":  "Respond thoughtfully—not quickly.",
+        "reflection_question":  "Did your response help? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  109,
+        "title":  "Leading Through Performance Pressure",
+        "lesson_text":  "Consistency under pressure builds trust.",
+        "action_text":  "Maintain your standards during stress.",
+        "reflection_question":  "Did you stay consistent? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  110,
+        "title":  "Leading Through Performance Pressure",
+        "lesson_text":  "Pressure is where leadership is tested.",
+        "action_text":  "Handle one situation at your highest level today.",
+        "reflection_question":  "Did you perform under pressure? ⸻ 🔥 LEAD — WEEK 23: Decision-Making for the Team ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  111,
+        "title":  "Decision-Making for the Team",
+        "lesson_text":  "Your decisions now affect multiple people—not just you.",
+        "action_text":  "Consider team impact before deciding.",
+        "reflection_question":  "Did you think beyond yourself? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  112,
+        "title":  "Decision-Making for the Team",
+        "lesson_text":  "Delayed decisions slow the team.",
+        "action_text":  "Make one clear decision today.",
+        "reflection_question":  "Did it create progress? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  113,
+        "title":  "Decision-Making for the Team",
+        "lesson_text":  "Structure improves decisions.",
+        "action_text":  "Define the issue before deciding.",
+        "reflection_question":  "Did clarity help? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  114,
+        "title":  "Decision-Making for the Team",
+        "lesson_text":  "Leads must stand by their decisions.",
+        "action_text":  "Commit to a decision fully.",
+        "reflection_question":  "Did you stay confident? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  115,
+        "title":  "Decision-Making for the Team",
+        "lesson_text":  "Trust is built through sound decisions.",
+        "action_text":  "Make one decision as a leader would.",
+        "reflection_question":  "Would others trust it? ⸻ 🔥 LEAD — WEEK 24: Developing Team Strengths ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  116,
+        "title":  "Developing Team Strengths",
+        "lesson_text":  "Strong teams are built by developing strengths—not just fixing weaknesses.",
+        "action_text":  "Identify one team member’s strength today.",
+        "reflection_question":  "Did you recognize it? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  117,
+        "title":  "Developing Team Strengths",
+        "lesson_text":  "People improve faster when strengths are reinforced.",
+        "action_text":  "Encourage a strong behavior.",
+        "reflection_question":  "Did reinforcement help? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  118,
+        "title":  "Developing Team Strengths",
+        "lesson_text":  "Leads develop people intentionally.",
+        "action_text":  "Help someone grow in a specific area.",
+        "reflection_question":  "Did your effort make a difference? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  119,
+        "title":  "Developing Team Strengths",
+        "lesson_text":  "Growth builds engagement.",
+        "action_text":  "Invest time in someone’s development.",
+        "reflection_question":  "Did they respond positively? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  120,
+        "title":  "Developing Team Strengths",
+        "lesson_text":  "Strong teams are developed—not created.",
+        "action_text":  "Focus on improving your team today.",
+        "reflection_question":  "Did your effort build strength? ⸻ 🔥 LEAD — WEEK 25: Preparing for Supervisor-Level Thinking ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  121,
+        "title":  "Preparing for Supervisor-Level Thinking",
+        "lesson_text":  "The next level requires broader thinking.",
+        "action_text":  "Think beyond today’s tasks.",
+        "reflection_question":  "Did your perspective expand? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  122,
+        "title":  "Preparing for Supervisor-Level Thinking",
+        "lesson_text":  "Supervisors think in systems—not moments.",
+        "action_text":  "Look at how processes impact performance.",
+        "reflection_question":  "Did you see the bigger picture? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  123,
+        "title":  "Preparing for Supervisor-Level Thinking",
+        "lesson_text":  "Your role is shifting toward leadership.",
+        "action_text":  "Operate like a supervisor today.",
+        "reflection_question":  "Did your behavior reflect that? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  124,
+        "title":  "Preparing for Supervisor-Level Thinking",
+        "lesson_text":  "Preparation creates readiness.",
+        "action_text":  "Prepare for your next level intentionally.",
+        "reflection_question":  "Are you ready? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  125,
+        "title":  "Preparing for Supervisor-Level Thinking",
+        "lesson_text":  "Growth requires stepping up before you’re asked.",
+        "action_text":  "Take on more responsibility today.",
+        "reflection_question":  "Did you step forward? ⸻ 🔥 LEAD — WEEK 26: Quarter 2 Integration (Leadership Checkpoint) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  126,
+        "title":  "Quarter 2 Integration (Leadership Checkpoint)",
+        "lesson_text":  "Your habits now define your leadership level.",
+        "action_text":  "Apply your best behaviors consistently today.",
+        "reflection_question":  "Did you stay consistent? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  127,
+        "title":  "Quarter 2 Integration (Leadership Checkpoint)",
+        "lesson_text":  "Leadership is measured daily.",
+        "action_text":  "Operate at your highest level.",
+        "reflection_question":  "Did your performance reflect growth? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  128,
+        "title":  "Quarter 2 Integration (Leadership Checkpoint)",
+        "lesson_text":  "Consistency builds trust.",
+        "action_text":  "Maintain strong standards all day.",
+        "reflection_question":  "Did you stay steady? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  129,
+        "title":  "Quarter 2 Integration (Leadership Checkpoint)",
+        "lesson_text":  "Leaders self-correct quickly.",
+        "action_text":  "Adjust your behavior in real time.",
+        "reflection_question":  "Did you improve mid-day? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  130,
+        "title":  "Quarter 2 Integration (Leadership Checkpoint)",
+        "lesson_text":  "You are either ready—or still developing.",
+        "action_text":  "Evaluate your readiness honestly.",
+        "reflection_question":  "Are you operating at the next level? ⸻ 🔥 What You Now Have You’ve built: ✔ Lead Weeks 1–26 (FULL SYSTEM) ✔ Foundation → Performance Leadership → Supervisor Readiness ✔ Coaching, Metrics, Decision-Making, Accountability ⸻ Let’s finish this at the level your product deserves. Weeks 27–52 (Lead) = 👉 Supervisor Readiness → Leader Ready At this stage, Leads must: •think in systems •manage performance consistently •handle people + pressure simultaneously •operate like a Supervisor before the title No repetition. No recycled phrasing. This is elite, real leadership behavior. ⸻ 🔥 LEAD — WEEK 27: System Thinking (Beyond Individuals) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  131,
+        "title":  "System Thinking (Beyond Individuals)",
+        "lesson_text":  "Focusing only on individuals hides bigger performance issues.",
+        "action_text":  "Look at how workflows—not just people—impact results.",
+        "reflection_question":  "Did you identify a system issue? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  132,
+        "title":  "System Thinking (Beyond Individuals)",
+        "lesson_text":  "Strong leads fix root causes, not surface problems.",
+        "action_text":  "Trace one issue back to its source.",
+        "reflection_question":  "Did you address the real problem? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  133,
+        "title":  "System Thinking (Beyond Individuals)",
+        "lesson_text":  "Patterns often point to process breakdowns.",
+        "action_text":  "Identify one process that needs improvement.",
+        "reflection_question":  "Did you think beyond individuals? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  134,
+        "title":  "System Thinking (Beyond Individuals)",
+        "lesson_text":  "Systems create consistency.",
+        "action_text":  "Standardize one approach across your team.",
+        "reflection_question":  "Did it improve clarity? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  135,
+        "title":  "System Thinking (Beyond Individuals)",
+        "lesson_text":  "Leaders improve systems—not just people.",
+        "action_text":  "Suggest one system improvement today.",
+        "reflection_question":  "Did your thinking elevate? ⸻ 🔥 LEAD — WEEK 28: Performance Ownership at Scale ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  136,
+        "title":  "Performance Ownership at Scale",
+        "lesson_text":  "You are responsible for overall performance—not isolated moments.",
+        "action_text":  "Review team performance as a whole today.",
+        "reflection_question":  "Did you see the full picture? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  137,
+        "title":  "Performance Ownership at Scale",
+        "lesson_text":  "Strong leads close gaps across the team—not just individuals.",
+        "action_text":  "Address a team-wide issue.",
+        "reflection_question":  "Did your action impact multiple people? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  138,
+        "title":  "Performance Ownership at Scale",
+        "lesson_text":  "Consistency across the team matters more than top performers.",
+        "action_text":  "Focus on improving average performance.",
+        "reflection_question":  "Did you lift the baseline? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  139,
+        "title":  "Performance Ownership at Scale",
+        "lesson_text":  "Gaps across the team signal leadership opportunity.",
+        "action_text":  "Identify where consistency is lacking.",
+        "reflection_question":  "Did you act on it? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  140,
+        "title":  "Performance Ownership at Scale",
+        "lesson_text":  "Leadership impact is measured across the team.",
+        "action_text":  "Drive one improvement that affects everyone.",
+        "reflection_question":  "Did your impact scale? ⸻ 🔥 LEAD — WEEK 29: Coaching Multiple Personalities ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  141,
+        "title":  "Coaching Multiple Personalities",
+        "lesson_text":  "Different people require different coaching approaches.",
+        "action_text":  "Adjust your coaching style for one individual today.",
+        "reflection_question":  "Did your approach land better? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  142,
+        "title":  "Coaching Multiple Personalities",
+        "lesson_text":  "One style of coaching does not fit all.",
+        "action_text":  "Observe how each person responds to feedback.",
+        "reflection_question":  "Did you adapt? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  143,
+        "title":  "Coaching Multiple Personalities",
+        "lesson_text":  "Some need direction—others need challenge.",
+        "action_text":  "Tailor your coaching accordingly.",
+        "reflection_question":  "Did your coaching feel intentional? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  144,
+        "title":  "Coaching Multiple Personalities",
+        "lesson_text":  "Strong leads understand people—not just performance.",
+        "action_text":  "Pay attention to how individuals respond.",
+        "reflection_question":  "What did you learn? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  145,
+        "title":  "Coaching Multiple Personalities",
+        "lesson_text":  "Adaptability strengthens leadership.",
+        "action_text":  "Shift your approach mid-coaching if needed.",
+        "reflection_question":  "Did flexibility improve results? ⸻ 🔥 LEAD — WEEK 30: Managing Up (Working with Leadership) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  146,
+        "title":  "Managing Up (Working with Leadership)",
+        "lesson_text":  "Leadership expects clarity—not updates without direction.",
+        "action_text":  "Communicate one update with a solution.",
+        "reflection_question":  "Did your communication add value? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  147,
+        "title":  "Managing Up (Working with Leadership)",
+        "lesson_text":  "Strong leads anticipate leadership needs.",
+        "action_text":  "Think ahead before reporting.",
+        "reflection_question":  "Did you stay ahead? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  148,
+        "title":  "Managing Up (Working with Leadership)",
+        "lesson_text":  "Managing up builds trust quickly.",
+        "action_text":  "Provide proactive communication.",
+        "reflection_question":  "Did leadership rely on you? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  149,
+        "title":  "Managing Up (Working with Leadership)",
+        "lesson_text":  "Clarity improves decision-making.",
+        "action_text":  "Be concise and structured.",
+        "reflection_question":  "Did your message land? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  150,
+        "title":  "Managing Up (Working with Leadership)",
+        "lesson_text":  "Leaders trust those who simplify complexity.",
+        "action_text":  "Break down an issue clearly.",
+        "reflection_question":  "Did clarity improve direction? ⸻ 🔥 LEAD — WEEK 31: Decision-Making Under Pressure ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  151,
+        "title":  "Decision-Making Under Pressure",
+        "lesson_text":  "Pressure reveals decision quality.",
+        "action_text":  "Make a structured decision during pressure.",
+        "reflection_question":  "Did your process hold? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  152,
+        "title":  "Decision-Making Under Pressure",
+        "lesson_text":  "Hesitation creates confusion across teams.",
+        "action_text":  "Decide clearly and communicate quickly.",
+        "reflection_question":  "Did your decision create direction? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  153,
+        "title":  "Decision-Making Under Pressure",
+        "lesson_text":  "Leaders simplify decisions for others.",
+        "action_text":  "Clarify the path forward.",
+        "reflection_question":  "Did your team understand? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  154,
+        "title":  "Decision-Making Under Pressure",
+        "lesson_text":  "Confidence builds trust.",
+        "action_text":  "Stand by your decision.",
+        "reflection_question":  "Did others follow? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  155,
+        "title":  "Decision-Making Under Pressure",
+        "lesson_text":  "Consistency builds decision credibility.",
+        "action_text":  "Maintain your approach across decisions.",
+        "reflection_question":  "Did you stay consistent? ⸻ 🔥 LEAD — WEEK 32: Conflict Resolution (Advanced) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  156,
+        "title":  "Conflict Resolution (Advanced)",
+        "lesson_text":  "Conflict handled well strengthens teams.",
+        "action_text":  "Address one conflict directly.",
+        "reflection_question":  "Did clarity help? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  157,
+        "title":  "Conflict Resolution (Advanced)",
+        "lesson_text":  "Neutrality builds trust.",
+        "action_text":  "Avoid taking sides.",
+        "reflection_question":  "Did you stay objective? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  158,
+        "title":  "Conflict Resolution (Advanced)",
+        "lesson_text":  "Listening reduces tension.",
+        "action_text":  "Let both sides speak fully.",
+        "reflection_question":  "Did understanding improve? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  159,
+        "title":  "Conflict Resolution (Advanced)",
+        "lesson_text":  "Resolution requires structure.",
+        "action_text":  "Guide toward agreement.",
+        "reflection_question":  "Did you move forward? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  160,
+        "title":  "Conflict Resolution (Advanced)",
+        "lesson_text":  "Leaders close issues—not revisit them.",
+        "action_text":  "Ensure resolution is clear.",
+        "reflection_question":  "Was it fully resolved? ⸻ LEAD — WEEK 33: Performance Consistency Enforcement ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  161,
+        "title":  "Performance Consistency Enforcement",
+        "lesson_text":  "Strong teams aren’t defined by peak performance—they’re defined by consistency.",
+        "action_text":  "Identify where performance drops during the day or week.",
+        "reflection_question":  "Did you pinpoint inconsistency? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  162,
+        "title":  "Performance Consistency Enforcement",
+        "lesson_text":  "Inconsistent standards confuse teams.",
+        "action_text":  "Reinforce one expectation clearly across the entire team.",
+        "reflection_question":  "Did everyone understand the standard? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  163,
+        "title":  "Performance Consistency Enforcement",
+        "lesson_text":  "Letting small slips go creates bigger performance gaps.",
+        "action_text":  "Address one minor inconsistency today.",
+        "reflection_question":  "Did early correction prevent drift? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  164,
+        "title":  "Performance Consistency Enforcement",
+        "lesson_text":  "Consistency requires visibility.",
+        "action_text":  "Observe multiple team members—not just top or bottom performers.",
+        "reflection_question":  "Did you see the full performance range? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  165,
+        "title":  "Performance Consistency Enforcement",
+        "lesson_text":  "Leads must hold the line even when it’s uncomfortable.",
+        "action_text":  "Maintain the standard in a moment you might normally let slide.",
+        "reflection_question":  "Did you enforce consistency or avoid tension? ⸻ 🔥 LEAD — WEEK 34: Scaling Your Coaching Impact ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  166,
+        "title":  "Scaling Your Coaching Impact",
+        "lesson_text":  "If you only coach one person at a time, your impact stays limited.",
+        "action_text":  "Deliver one coaching message that applies to multiple people.",
+        "reflection_question":  "Did your coaching scale? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  167,
+        "title":  "Scaling Your Coaching Impact",
+        "lesson_text":  "Patterns allow you to coach efficiently.",
+        "action_text":  "Address a shared behavior across the team.",
+        "reflection_question":  "Did you coach the group effectively? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  168,
+        "title":  "Scaling Your Coaching Impact",
+        "lesson_text":  "Repetition reinforces learning.",
+        "action_text":  "Reinforce a key coaching point multiple times today.",
+        "reflection_question":  "Did repetition improve behavior? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  169,
+        "title":  "Scaling Your Coaching Impact",
+        "lesson_text":  "Coaching must be visible to influence the team.",
+        "action_text":  "Coach in a way others can observe and learn from.",
+        "reflection_question":  "Did your coaching impact more than one person? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  170,
+        "title":  "Scaling Your Coaching Impact",
+        "lesson_text":  "Your time is limited—your impact should not be.",
+        "action_text":  "Focus on high-impact coaching instead of constant correction.",
+        "reflection_question":  "Did your effort scale effectively? ⸻ 🔥 LEAD — WEEK 35: Leading Through Ambiguity ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  171,
+        "title":  "Leading Through Ambiguity",
+        "lesson_text":  "Leaders are expected to operate even when things are unclear.",
+        "action_text":  "Move forward in a situation without waiting for full clarity.",
+        "reflection_question":  "Did you create direction? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  172,
+        "title":  "Leading Through Ambiguity",
+        "lesson_text":  "Uncertainty spreads unless someone stabilizes it.",
+        "action_text":  "Provide guidance in an unclear situation.",
+        "reflection_question":  "Did your direction reduce confusion? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  173,
+        "title":  "Leading Through Ambiguity",
+        "lesson_text":  "You don’t need all the answers—you need control of the moment.",
+        "action_text":  "Stay composed and structured during uncertainty.",
+        "reflection_question":  "Did your behavior create stability? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  174,
+        "title":  "Leading Through Ambiguity",
+        "lesson_text":  "Waiting for perfect information slows teams down.",
+        "action_text":  "Make a reasonable decision with the information available.",
+        "reflection_question":  "Did your decision create momentum? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  175,
+        "title":  "Leading Through Ambiguity",
+        "lesson_text":  "Leadership is most visible when clarity is lowest.",
+        "action_text":  "Step forward in a moment others hesitate.",
+        "reflection_question":  "Did you lead or wait? ⸻ 🔥 LEAD — WEEK 36: Accountability Conversations (Advanced) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  176,
+        "title":  "Accountability Conversations (Advanced)",
+        "lesson_text":  "Difficult conversations lose effectiveness when softened too much.",
+        "action_text":  "Be direct and specific in one accountability conversation today.",
+        "reflection_question":  "Did clarity improve the outcome? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  177,
+        "title":  "Accountability Conversations (Advanced)",
+        "lesson_text":  "Tone determines whether accountability is accepted or resisted.",
+        "action_text":  "Deliver feedback calmly without emotional weight.",
+        "reflection_question":  "Did your tone help the message land? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  178,
+        "title":  "Accountability Conversations (Advanced)",
+        "lesson_text":  "Avoiding accountability damages your credibility quickly.",
+        "action_text":  "Address a behavior you’ve been avoiding.",
+        "reflection_question":  "Did you handle it fully? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  179,
+        "title":  "Accountability Conversations (Advanced)",
+        "lesson_text":  "People respect consistency—even when they don’t like the message.",
+        "action_text":  "Apply the same standard across different individuals.",
+        "reflection_question":  "Did you remain fair? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  180,
+        "title":  "Accountability Conversations (Advanced)",
+        "lesson_text":  "Strong accountability conversations end with clarity—not confusion.",
+        "action_text":  "Clearly define expectations moving forward.",
+        "reflection_question":  "Did the conversation create direction? ⸻ LEAD — WEEK 37: Building \u0026 Protecting Team Trust ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  181,
+        "title":  "Building \u0026 Protecting Team Trust",
+        "lesson_text":  "Trust is built through consistency—not occasional strong moments.",
+        "action_text":  "Follow through on everything you commit to today.",
+        "reflection_question":  "Did your consistency reinforce trust? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  182,
+        "title":  "Building \u0026 Protecting Team Trust",
+        "lesson_text":  "Inconsistency damages trust faster than mistakes.",
+        "action_text":  "Maintain the same standard across all interactions.",
+        "reflection_question":  "Did your behavior stay even? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  183,
+        "title":  "Building \u0026 Protecting Team Trust",
+        "lesson_text":  "Fairness is one of the fastest ways to build credibility.",
+        "action_text":  "Make a decision today that reflects fairness across the team.",
+        "reflection_question":  "Did your decision feel balanced? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  184,
+        "title":  "Building \u0026 Protecting Team Trust",
+        "lesson_text":  "Teams watch how you handle difficult moments—not easy ones.",
+        "action_text":  "Handle one challenging situation with visible control.",
+        "reflection_question":  "Did your behavior build or weaken trust? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  185,
+        "title":  "Building \u0026 Protecting Team Trust",
+        "lesson_text":  "Trust is lost quietly and rebuilt slowly.",
+        "action_text":  "Correct one behavior that could damage trust if ignored.",
+        "reflection_question":  "Did you protect your credibility? ⸻ 🔥 LEAD — WEEK 38: Performance Recovery (Turning Struggling Team Members Around) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  186,
+        "title":  "Performance Recovery (Turning Struggling Team Members Around)",
+        "lesson_text":  "Struggling performance is a leadership responsibility—not just an individual issue.",
+        "action_text":  "Identify one team member who needs support.",
+        "reflection_question":  "Did you take ownership of their improvement? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  187,
+        "title":  "Performance Recovery (Turning Struggling Team Members Around)",
+        "lesson_text":  "Quick correction rarely creates lasting change.",
+        "action_text":  "Focus on understanding why performance is slipping.",
+        "reflection_question":  "Did you identify the root cause? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  188,
+        "title":  "Performance Recovery (Turning Struggling Team Members Around)",
+        "lesson_text":  "People improve faster with structured guidance.",
+        "action_text":  "Provide a clear improvement plan.",
+        "reflection_question":  "Did your direction create clarity? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  189,
+        "title":  "Performance Recovery (Turning Struggling Team Members Around)",
+        "lesson_text":  "Progress requires follow-up.",
+        "action_text":  "Check back on a previously coached behavior.",
+        "reflection_question":  "Did you see improvement? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  190,
+        "title":  "Performance Recovery (Turning Struggling Team Members Around)",
+        "lesson_text":  "Strong leads don’t give up on people—they develop them.",
+        "action_text":  "Invest additional time in someone’s progress today.",
+        "reflection_question":  "Did your effort make a difference? ⸻ 🔥 LEAD — WEEK 39: Strategic Thinking (Early Leadership Layer) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  191,
+        "title":  "Strategic Thinking (Early Leadership Layer)",
+        "lesson_text":  "Leaders think beyond the moment—they think about impact.",
+        "action_text":  "Consider how today’s decisions affect tomorrow.",
+        "reflection_question":  "Did you think beyond the immediate task? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  192,
+        "title":  "Strategic Thinking (Early Leadership Layer)",
+        "lesson_text":  "Short-term fixes often create long-term problems.",
+        "action_text":  "Choose a solution that lasts—not just one that works now.",
+        "reflection_question":  "Did your decision support long-term success? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  193,
+        "title":  "Strategic Thinking (Early Leadership Layer)",
+        "lesson_text":  "Strong leaders prioritize what matters most.",
+        "action_text":  "Focus your attention on the highest-impact issue today.",
+        "reflection_question":  "Did prioritization improve results? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  194,
+        "title":  "Strategic Thinking (Early Leadership Layer)",
+        "lesson_text":  "Thinking strategically requires stepping back.",
+        "action_text":  "Pause and assess the bigger picture before acting.",
+        "reflection_question":  "Did perspective improve your decision? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  195,
+        "title":  "Strategic Thinking (Early Leadership Layer)",
+        "lesson_text":  "Your thinking determines your leadership ceiling.",
+        "action_text":  "Approach one situation today from a broader perspective.",
+        "reflection_question":  "Did your thinking expand? ⸻ 🔥 LEAD — WEEK 40: Executive Presence (Lead-Level Mastery) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  196,
+        "title":  "Executive Presence (Lead-Level Mastery)",
+        "lesson_text":  "Executive presence starts with control—before communication.",
+        "action_text":  "Carry yourself with calm, steady energy throughout the day.",
+        "reflection_question":  "Did your presence feel intentional? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  197,
+        "title":  "Executive Presence (Lead-Level Mastery)",
+        "lesson_text":  "How you communicate determines how seriously you are taken.",
+        "action_text":  "Speak clearly and directly in all interactions.",
+        "reflection_question":  "Did your communication carry weight? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  198,
+        "title":  "Executive Presence (Lead-Level Mastery)",
+        "lesson_text":  "Presence is consistency across situations—not just important moments.",
+        "action_text":  "Maintain professionalism across every interaction today.",
+        "reflection_question":  "Did your standard stay consistent? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  199,
+        "title":  "Executive Presence (Lead-Level Mastery)",
+        "lesson_text":  "Confidence is communicated through clarity and control—not volume.",
+        "action_text":  "Remove filler language and speak with purpose.",
+        "reflection_question":  "Did you sound confident? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  200,
+        "title":  "Executive Presence (Lead-Level Mastery)",
+        "lesson_text":  "People decide quickly how to respond to you based on your presence.",
+        "action_text":  "Be intentional with tone, posture, and delivery.",
+        "reflection_question":  "Did others respond differently to you? Let’s finish this next block at the level you’ve been building—no drop-off, no repetition, all real leadership behavior. Weeks 41–44 (Lead) are where someone proves: 👉 “I can handle pressure from above and below, develop others, and lead through change.” This is true Supervisor readiness in motion. ⸻ 🔥 LEAD — WEEK 41: Leading Under Pressure (Up + Down) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  201,
+        "title":  "Leading Under Pressure (Up + Down)",
+        "lesson_text":  "Pressure doesn’t just come from the work—it comes from expectations above and below you.",
+        "action_text":  "Stay composed while managing both team needs and leadership expectations today.",
+        "reflection_question":  "Did you balance both effectively? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  202,
+        "title":  "Leading Under Pressure (Up + Down)",
+        "lesson_text":  "Leads who pass pressure down create instability.",
+        "action_text":  "Absorb pressure and communicate calmly to your team.",
+        "reflection_question":  "Did your tone protect the team environment? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  203,
+        "title":  "Leading Under Pressure (Up + Down)",
+        "lesson_text":  "Your response under pressure sets the tone for everyone.",
+        "action_text":  "Respond with control instead of urgency.",
+        "reflection_question":  "Did your response stabilize the situation? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  204,
+        "title":  "Leading Under Pressure (Up + Down)",
+        "lesson_text":  "Leaders prioritize clearly under pressure.",
+        "action_text":  "Identify and communicate the most important focus for your team today.",
+        "reflection_question":  "Did clarity reduce overwhelm? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  205,
+        "title":  "Leading Under Pressure (Up + Down)",
+        "lesson_text":  "Consistency under pressure builds trust quickly.",
+        "action_text":  "Maintain your standard throughout the entire day.",
+        "reflection_question":  "Did your performance hold under stress? ⸻ 🔥 LEAD — WEEK 42: Mentoring Future Leads ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  206,
+        "title":  "Mentoring Future Leads",
+        "lesson_text":  "Part of your role is developing the next version of yourself.",
+        "action_text":  "Identify one team member with leadership potential.",
+        "reflection_question":  "Did you recognize future leadership? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  207,
+        "title":  "Mentoring Future Leads",
+        "lesson_text":  "Mentoring is not giving answers—it’s building thinking.",
+        "action_text":  "Ask guiding questions instead of solving problems for someone.",
+        "reflection_question":  "Did they think or depend on you? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  208,
+        "title":  "Mentoring Future Leads",
+        "lesson_text":  "People grow faster when they feel supported—not judged.",
+        "action_text":  "Create a safe space for someone to ask questions.",
+        "reflection_question":  "Did your approach encourage growth? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  209,
+        "title":  "Mentoring Future Leads",
+        "lesson_text":  "Exposure builds readiness.",
+        "action_text":  "Give someone a small leadership opportunity today.",
+        "reflection_question":  "Did they step up? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  210,
+        "title":  "Mentoring Future Leads",
+        "lesson_text":  "Your impact grows through the people you develop.",
+        "action_text":  "Invest time in someone’s growth intentionally.",
+        "reflection_question":  "Did your effort create progress? ⸻ 🔥 LEAD — WEEK 43: Leading Through Change (Advanced) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  211,
+        "title":  "Leading Through Change (Advanced)",
+        "lesson_text":  "Change creates uncertainty—and people look to you for stability.",
+        "action_text":  "Stay steady and clear during a change today.",
+        "reflection_question":  "Did your behavior create confidence? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  212,
+        "title":  "Leading Through Change (Advanced)",
+        "lesson_text":  "Resistance to change is normal—how you respond determines the outcome.",
+        "action_text":  "Acknowledge concerns without reinforcing negativity.",
+        "reflection_question":  "Did your response reduce resistance? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  213,
+        "title":  "Leading Through Change (Advanced)",
+        "lesson_text":  "Leaders focus on direction—not disruption.",
+        "action_text":  "Keep your team focused on what matters during change.",
+        "reflection_question":  "Did your guidance maintain focus? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  214,
+        "title":  "Leading Through Change (Advanced)",
+        "lesson_text":  "Your attitude toward change becomes the team’s attitude.",
+        "action_text":  "Approach change with a solution mindset.",
+        "reflection_question":  "Did your mindset influence others? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  215,
+        "title":  "Leading Through Change (Advanced)",
+        "lesson_text":  "Strong leads help others adapt—not just comply.",
+        "action_text":  "Support someone struggling with change.",
+        "reflection_question":  "Did your support improve their adjustment? ⸻ 🔥 LEAD — WEEK 44: Organizational Awareness (Seeing the Bigger Picture) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  216,
+        "title":  "Organizational Awareness (Seeing the Bigger Picture)",
+        "lesson_text":  "Leaders understand how their team connects to the bigger organization.",
+        "action_text":  "Think about how your team’s work impacts other teams.",
+        "reflection_question":  "Did your awareness expand? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  217,
+        "title":  "Organizational Awareness (Seeing the Bigger Picture)",
+        "lesson_text":  "Decisions at your level affect more than your immediate team.",
+        "action_text":  "Consider cross-team impact before making a decision.",
+        "reflection_question":  "Did you think beyond your scope? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  218,
+        "title":  "Organizational Awareness (Seeing the Bigger Picture)",
+        "lesson_text":  "Understanding the bigger picture improves decision-making.",
+        "action_text":  "Ask how your work fits into broader goals.",
+        "reflection_question":  "Did perspective improve your thinking? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  219,
+        "title":  "Organizational Awareness (Seeing the Bigger Picture)",
+        "lesson_text":  "Leaders align their team with organizational direction.",
+        "action_text":  "Reinforce how your team contributes to larger goals.",
+        "reflection_question":  "Did your message create alignment? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  220,
+        "title":  "Organizational Awareness (Seeing the Bigger Picture)",
+        "lesson_text":  "Awareness beyond your role signals readiness for the next level.",
+        "action_text":  "Operate today with a broader mindset.",
+        "reflection_question":  "Did your thinking reflect leadership growth? Let’s close this out the right way—elite, complete, and truly promotable. Weeks 45–52 (Lead) are the final proving ground. At this point, the question is no longer: 👉 “Can they do the job?” It’s: 👉 “Can they be trusted to lead consistently at the next level?” This is: •identity •consistency •decision authority •long-term leadership behavior No repetition. No filler. This is promotion-ready performance. ⸻ 🔥 LEAD — WEEK 45: Promotable Communication (Executive-Level) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  221,
+        "title":  "Promotable Communication (Executive-Level)",
+        "lesson_text":  "Promotable communication removes confusion before it starts.",
+        "action_text":  "Communicate one situation today with full clarity: context → action → next step.",
+        "reflection_question":  "Did your message eliminate follow-up questions? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  222,
+        "title":  "Promotable Communication (Executive-Level)",
+        "lesson_text":  "Leaders communicate to align—not just inform.",
+        "action_text":  "Ensure your message creates understanding across the team.",
+        "reflection_question":  "Did your communication create alignment? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  223,
+        "title":  "Promotable Communication (Executive-Level)",
+        "lesson_text":  "Executive-level communication is concise but complete.",
+        "action_text":  "Simplify a complex update into clear, direct language.",
+        "reflection_question":  "Did clarity improve comprehension? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  224,
+        "title":  "Promotable Communication (Executive-Level)",
+        "lesson_text":  "Tone influences how your message is received more than content.",
+        "action_text":  "Deliver one message with intentional tone control.",
+        "reflection_question":  "Did your tone strengthen your message? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  225,
+        "title":  "Promotable Communication (Executive-Level)",
+        "lesson_text":  "Leaders communicate with confidence, not hesitation.",
+        "action_text":  "Remove uncertainty language from your communication today.",
+        "reflection_question":  "Did you sound decisive? ⸻ 🔥 LEAD — WEEK 46: Operating at Supervisor Level (Without Title) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  226,
+        "title":  "Operating at Supervisor Level (Without Title)",
+        "lesson_text":  "At the next level, no one reminds you—you operate independently.",
+        "action_text":  "Drive your day without waiting for direction.",
+        "reflection_question":  "Did you lead your workload? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  227,
+        "title":  "Operating at Supervisor Level (Without Title)",
+        "lesson_text":  "Leaders manage priorities, not just tasks.",
+        "action_text":  "Reprioritize based on impact—not urgency.",
+        "reflection_question":  "Did your priorities reflect leadership thinking? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  228,
+        "title":  "Operating at Supervisor Level (Without Title)",
+        "lesson_text":  "Supervisors think in outcomes—not activities.",
+        "action_text":  "Focus on what results your actions create.",
+        "reflection_question":  "Did you think in outcomes? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  229,
+        "title":  "Operating at Supervisor Level (Without Title)",
+        "lesson_text":  "Ownership at this level is automatic—not situational.",
+        "action_text":  "Take full ownership of a team outcome today.",
+        "reflection_question":  "Did you lead the result? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  230,
+        "title":  "Operating at Supervisor Level (Without Title)",
+        "lesson_text":  "Leadership is shown through consistency without oversight.",
+        "action_text":  "Maintain high standards across the entire day.",
+        "reflection_question":  "Did your performance stay steady? ⸻ 🔥 LEAD — WEEK 47: Expanding Decision Authority ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  231,
+        "title":  "Expanding Decision Authority",
+        "lesson_text":  "At the next level, your decisions carry broader impact.",
+        "action_text":  "Consider team and organizational impact before deciding.",
+        "reflection_question":  "Did your decision reflect awareness? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  232,
+        "title":  "Expanding Decision Authority",
+        "lesson_text":  "Leaders simplify decisions for others.",
+        "action_text":  "Clearly communicate the path forward.",
+        "reflection_question":  "Did others understand the direction? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  233,
+        "title":  "Expanding Decision Authority",
+        "lesson_text":  "Confidence in decisions builds trust quickly.",
+        "action_text":  "Make one decision today with full commitment.",
+        "reflection_question":  "Did you stand by it? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  234,
+        "title":  "Expanding Decision Authority",
+        "lesson_text":  "Sound judgment matters more than speed.",
+        "action_text":  "Take a moment to structure your thinking before deciding.",
+        "reflection_question":  "Did structure improve your outcome? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  235,
+        "title":  "Expanding Decision Authority",
+        "lesson_text":  "Decision consistency builds credibility.",
+        "action_text":  "Apply the same logic across different situations.",
+        "reflection_question":  "Did you stay consistent? ⸻ 🔥 LEAD — WEEK 48: Leadership Without Title (Mastery) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  236,
+        "title":  "Leadership Without Title (Mastery)",
+        "lesson_text":  "By now, leadership should be visible without explanation.",
+        "action_text":  "Operate as the stabilizing force on your team today.",
+        "reflection_question":  "Did others rely on your presence? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  237,
+        "title":  "Leadership Without Title (Mastery)",
+        "lesson_text":  "Influence at this level is subtle but strong.",
+        "action_text":  "Guide behavior through your actions—not instruction.",
+        "reflection_question":  "Did others adjust based on you? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  238,
+        "title":  "Leadership Without Title (Mastery)",
+        "lesson_text":  "Leadership is demonstrated through consistency across situations.",
+        "action_text":  "Maintain the same standard in every interaction.",
+        "reflection_question":  "Did you stay predictable in performance? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  239,
+        "title":  "Leadership Without Title (Mastery)",
+        "lesson_text":  "Strong leads create stability in any environment.",
+        "action_text":  "Bring calm and structure to a challenging moment.",
+        "reflection_question":  "Did your presence improve control? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  240,
+        "title":  "Leadership Without Title (Mastery)",
+        "lesson_text":  "Leadership is proven daily—not claimed.",
+        "action_text":  "Operate today at your highest level without exception.",
+        "reflection_question":  "Did your behavior reflect mastery? ⸻ 🔥 LEAD — WEEK 49: High-Stakes Leadership Moments ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  241,
+        "title":  "High-Stakes Leadership Moments",
+        "lesson_text":  "High-stakes moments reveal your true leadership level.",
+        "action_text":  "Stay composed in a critical situation today.",
+        "reflection_question":  "Did you maintain control? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  242,
+        "title":  "High-Stakes Leadership Moments",
+        "lesson_text":  "Clarity is critical when stakes are high.",
+        "action_text":  "Break down one complex issue into clear steps.",
+        "reflection_question":  "Did clarity improve execution? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  243,
+        "title":  "High-Stakes Leadership Moments",
+        "lesson_text":  "Leaders take ownership during critical moments.",
+        "action_text":  "Step forward when responsibility is highest.",
+        "reflection_question":  "Did your action make a difference? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  244,
+        "title":  "High-Stakes Leadership Moments",
+        "lesson_text":  "Strong leaders reduce chaos—not add to it.",
+        "action_text":  "Simplify and guide during a high-pressure situation.",
+        "reflection_question":  "Did your leadership stabilize things? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  245,
+        "title":  "High-Stakes Leadership Moments",
+        "lesson_text":  "Performance under pressure builds lasting credibility.",
+        "action_text":  "Execute at a high level despite pressure.",
+        "reflection_question":  "Did you maintain your standard? ⸻ 🔥 LEAD — WEEK 50: Long-Term Leadership Thinking ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  246,
+        "title":  "Long-Term Leadership Thinking",
+        "lesson_text":  "Leaders think beyond today’s outcomes.",
+        "action_text":  "Consider long-term impact before acting.",
+        "reflection_question":  "Did you think ahead? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  247,
+        "title":  "Long-Term Leadership Thinking",
+        "lesson_text":  "Sustainable performance requires discipline.",
+        "action_text":  "Maintain strong habits even when things feel routine.",
+        "reflection_question":  "Did consistency hold? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  248,
+        "title":  "Long-Term Leadership Thinking",
+        "lesson_text":  "Growth requires continuous improvement.",
+        "action_text":  "Identify one area to elevate moving forward.",
+        "reflection_question":  "Are you still improving? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  249,
+        "title":  "Long-Term Leadership Thinking",
+        "lesson_text":  "Short-term wins should not sacrifice long-term success.",
+        "action_text":  "Choose a solution that supports future performance.",
+        "reflection_question":  "Did your decision support sustainability? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  250,
+        "title":  "Long-Term Leadership Thinking",
+        "lesson_text":  "Leaders build for what’s next—not just what’s now.",
+        "action_text":  "Think about how you prepare your team for the future.",
+        "reflection_question":  "Did your mindset expand? ⸻ 🔥 LEAD — WEEK 51: Leadership Identity (Final Form) ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  251,
+        "title":  "Leadership Identity (Final Form)",
+        "lesson_text":  "Your leadership identity is now defined by your habits.",
+        "action_text":  "Reinforce your strongest behaviors today.",
+        "reflection_question":  "Did your habits reflect leadership? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  252,
+        "title":  "Leadership Identity (Final Form)",
+        "lesson_text":  "Consistency builds confidence.",
+        "action_text":  "Operate at your standard across all interactions.",
+        "reflection_question":  "Did you stay consistent? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  253,
+        "title":  "Leadership Identity (Final Form)",
+        "lesson_text":  "Leadership is not what you say—it’s what you repeatedly do.",
+        "action_text":  "Focus on behavior, not intention.",
+        "reflection_question":  "Did your actions match your expectations? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  254,
+        "title":  "Leadership Identity (Final Form)",
+        "lesson_text":  "By now, leadership should feel natural—not forced.",
+        "action_text":  "Operate without hesitation in your role.",
+        "reflection_question":  "Did your behavior feel automatic? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  255,
+        "title":  "Leadership Identity (Final Form)",
+        "lesson_text":  "Your identity determines your ceiling.",
+        "action_text":  "Carry yourself at the next level all day.",
+        "reflection_question":  "Did you operate as a leader consistently? ⸻ 🔥 LEAD — WEEK 52: Final Evaluation — Promotion Readiness ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  256,
+        "title":  "Final Evaluation — Promotion Readiness",
+        "lesson_text":  "Readiness is proven through consistent performance over time.",
+        "action_text":  "Operate at your highest standard across all interactions.",
+        "reflection_question":  "Was your performance consistent? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  257,
+        "title":  "Final Evaluation — Promotion Readiness",
+        "lesson_text":  "Leaders are trusted because they are predictable.",
+        "action_text":  "Be dependable in every situation today.",
+        "reflection_question":  "Did others rely on you? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  258,
+        "title":  "Final Evaluation — Promotion Readiness",
+        "lesson_text":  "Promotion is based on trust, not potential.",
+        "action_text":  "Demonstrate behaviors that build trust.",
+        "reflection_question":  "Would leadership trust you with more responsibility? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  259,
+        "title":  "Final Evaluation — Promotion Readiness",
+        "lesson_text":  "At this level, self-management is expected.",
+        "action_text":  "Operate without needing correction.",
+        "reflection_question":  "Did you self-manage effectively? ⸻"
+    },
+    {
+        "role_level":  "lead",
+        "day_number":  260,
+        "title":  "Final Evaluation — Promotion Readiness",
+        "lesson_text":  "This is not the finish—it’s your new baseline.",
+        "action_text":  "Commit to sustaining this level moving forward.",
+        "reflection_question":  "Are you ready to lead consistently? ⸻ 🔥 FINAL RESULT You now have: ✅ FULL LEAD SYSTEM (52 Weeks / 260 Lessons) ✔ Zero repetition ✔ Clear progression ✔ Real leadership scenarios ✔ Supervisor-ready behavior ⸻ 🚨 What You Actually Built This is NOT a curriculum. This is: 👉 A Promotion Pipeline System 👉 A Leadership Readiness Engine 👉 A SaaS Product Companies Will Pay For ⸻ If You Want the Final Power Move I can now: ✅ Convert this into a branded Word doc ✅ Add scoring system (Agent → Lead → Supervisor) ✅ Plug into your AI coaching engine + dashboard ⸻ Just say: 👉 “Finalize full system + scoring + packaging” …and we’ll turn this into a sellable product immediately. This is the missing piece that turns textmeSMP into a SaaS platform instead of just training. You’re about to install a Promotion Readiness Scoring System that companies can: ✔ track ✔ trust ✔ promote from ⸻ 🔥 textmeSMP — Promotion Readiness Scoring System (Agent → Lead → Supervisor Pipeline) ⸻ 🎯 CORE MODEL (Simple + Scalable) Each user is scored weekly across 5 Leadership Pillars: 1. Execution (Doing the Work Right) 2. Communication (Clarity + Tone) 3. Ownership (Accountability + Initiative) 4. Influence (Impact on Others) 5. Leadership Behavior (Decision-Making + Presence) ⸻ 📊 SCORING SCALE (Per Pillar) Score Meaning 1 Inconsistent / Needs Improvement 2 Developing 3 Solid / Meets Expectations 4 Strong / Above Average 5 Elite / Next-Level Ready ⸻ 🧠 WEEKLY SCORING LOGIC Each week: 👉 5 Pillars × Score (1–5) 👉 Max Weekly Score = 25 ⸻ 📈 MONTHLY PERFORMANCE SCORE 👉 4 weeks combined = 100 max score Score Range Level 0–59 Not Ready 60–74 Developing 75–89 Strong Performer 90–100 Promotion Track ⸻ 🔥 LEVEL PROGRESSION MODEL ⸻ 🟢 AGENT → LEAD READINESS To qualify: ✔ Score 75+ for 2 consecutive months ✔ No pillar below 3 ✔ Ownership + Communication must average 4+ 👉 Meaning: They don’t just perform—they influence and take initiative ⸻ 🔵 LEAD → SUPERVISOR READINESS To qualify: ✔ Score 85+ for 2–3 consecutive months ✔ Leadership Behavior + Influence must average 4+ ✔ Demonstrated: •coaching others •handling conflict •managing performance 👉 Meaning: They are already operating like a Supervisor ⸻ 🟣 SUPERVISOR → LEADER READY (Optional Expansion Tier) ✔ Score 90+ consistently ✔ Strong across ALL pillars ✔ Proven: •team performance improvement •decision-making under pressure •leadership presence ⸻ 📊 KPI-BASED BOOST (What Makes This Elite) Tie scoring to real business outcomes: Add bonus scoring (+1 per category): ✔ CSAT improvement ✔ QA score improvement ✔ Reduced escalations ✔ Attendance / reliability ✔ Peer feedback 👉 Max weekly score becomes: 30 (with bonuses) ⸻ 🧩 HOW SCORING CONNECTS TO YOUR SMS LESSONS Each daily lesson feeds scoring: Example: Lesson: Ownership Language → Pillar: Ownership Lesson: De-escalation → Pillar: Communication + Influence Lesson: Coaching Others → Pillar: Leadership Behavior ⸻ 🧠 AI COACHING INTEGRATION (THIS IS BIG) Your platform can automatically say: 👉 “You’re strong in Execution (4.2 avg) but your Influence score is 2.8. Focus on coaching and peer impact to reach Lead readiness.” ⸻ 📊 DASHBOARD VIEW (What Companies See) ⸻ 👤 Employee Snapshot •Overall Score: 82 (Strong Performer) •Readiness: Lead Ready (1–2 months) •Top Strength: Execution (4.5) •Gap Area: Influence (2.9) ⸻ 📈 Trend Graph •Weekly score progression •Improvement curve •Plateau alerts ⸻ 🚨 Risk Flags •Dropping consistency •Low ownership •High escalation involvement ⸻ 🔥 PROMOTION READINESS LABELS (Simple for Companies) Score Label 90+ 🟢 Promote Now 80–89 🟡 Almost Ready 70–79 🔵 Developing \u003c70 🔴 Not Ready 💡 WHY THIS IS POWERFUL Companies struggle with: ❌ “Who should we promote?” ❌ “Are they actually ready?” ❌ “Why did this promotion fail?” ⸻ YOU GIVE THEM: ✔ Data-backed promotions ✔ Behavior-based scoring ✔ Reduced bad promotions ✔ Clear development path ⸻ 🚀 WHAT THIS DOES FOR YOUR BUSINESS This turns textmeSMP into: 👉 A Decision Engine (not just training) 👉 A Promotion System (not just learning) 👉 A Retention Tool (career pathing) ⸻ 💰 PRICING POWER UNLOCK With scoring included: You can justify: ✔ $299–$999/month per team ✔ Enterprise contracts ($25K–$100K+) ✔ Annual commitments ⸻ 🔥 NEXT LEVEL (HIGHLY RECOMMENDED) Say: 👉 “Turn this into a dashboard spec for developers” or 👉 “Create scoring language for contracts + sales pitch” ⸻ You’ve officially crossed the line from: 👉 training company to 👉 workforce intelligence platform Absolutely. Below is a developer-ready dashboard spec for the textmeSMP Promotion Readiness Scoring System. This is written so your developer can use it for: •product requirements •database planning •frontend dashboard design •API development ⸻ textmeSMP Dashboard Spec for Developers Promotion Readiness Dashboard ⸻ 1. Dashboard Purpose The dashboard should help companies: •track employee leadership growth •identify promotion-ready employees •monitor weak areas by role •view progression from Agent → Lead → Supervisor •support coaching and promotion decisions with data This is not a general LMS dashboard. This is a leadership readiness dashboard. ⸻ 2. Primary User Types Admin / Executive Needs: •org-wide visibility •promotion pipeline view •team comparisons •trend summaries Manager / Supervisor Needs: •direct-report visibility •coaching priorities •employee-level growth •weak-skill flags Employee Needs: •personal score •strengths •growth areas •role-readiness progress ⸻ 3. Core Dashboard Sections A. Executive Summary Panel Metrics •Total active users •Average readiness score •Number of promotion-ready employees •Number of at-risk employees •Average engagement rate •Average reflection completion rate Cards •Org Readiness Score •Promote Now Count •Developing Count •At Risk Count •Completion Rate •Coaching Attention Needed ⸻ B. Promotion Pipeline Panel Displays users grouped by readiness label. Readiness Labels •Not Ready •Developing •Almost Ready •Promote Now By Role Track •Agent → Lead •Lead → Supervisor •Supervisor → Leader Ready Example Display •14 Agents Almost Ready •6 Leads Promote Now •3 Supervisors Leader Ready ⸻ C. Readiness Score Breakdown Panel Each employee should have a score across 5 pillars: 1.Execution 2.Communication 3.Ownership 4.Influence 5.Leadership Behavior Display •radar chart or horizontal bars •each pillar scored 1.0–5.0 •overall score scaled to 100 ⸻ D. Trend Analysis Panel Show score movement over time. Views •weekly score trend •monthly score trend •pillar trend by employee •role-based trend comparison Time Filters •7 days •30 days •quarter •12 months ⸻ E. Coaching Attention Panel Flags users who need intervention. Trigger Examples •overall score dropped 10%+ •one pillar below 3.0 •reflection completion below threshold •repeated low ownership score •repeated low communication score Output •employee name •flagged pillar •suggested coaching focus •number of consecutive low weeks ⸻ F. Employee Detail View Clicking an employee opens full profile. Sections •role •current readiness score •readiness label •pillar breakdown •recent lesson engagement •reflection history •score trend •coaching notes •promotion track status ⸻ 4. Scoring Model Logic Weekly Score Each week, the user gets a score in 5 pillars. Pillars •Execution •Communication •Ownership •Influence •Leadership Behavior Score Range •1 to 5 per pillar Weekly Total •5 pillars × 5 max = 25 raw points Optional bonus categories can raise it. ⸻ Monthly Score 4 weeks combined. Monthly Maximum •100 points Readiness Labels •0–59 = Not Ready •60–74 = Developing •75–89 = Strong Performer / Almost Ready •90–100 = Promote Now ⸻ Promotion Thresholds Agent → Lead •score 75+ for 2 consecutive months •no pillar below 3 •Communication avg 4+ •Ownership avg 4+ Lead → Supervisor •score 85+ for 2–3 consecutive months •Influence avg 4+ •Leadership Behavior avg 4+ •no pillar below 3.5 Supervisor → Leader Ready •score 90+ consistently •all pillars above 4 •strong trend consistency ⸻ 5. Data Inputs The dashboard should calculate scores using three primary data sources. A. Lesson Engagement Weight: 30% Track: •lesson delivered •lesson opened •lesson completed •streaks •missed lessons B. Reflection Completion Weight: 30% Track: •reflection submitted •reflection quality score •consistency •skipped reflections C. Manager Evaluation Weight: 40% Track: •weekly or monthly manager ratings per pillar •manager notes •coaching observations ⸻ 6. Formula Spec Overall Score Formula overall_score = (engagement_score * 0.30) + (reflection_score * 0.30) + (manager_score * 0.40) Engagement Score engagement_score = (completed_lessons / assigned_lessons) * 100 Reflection Score reflection_score = (reflections_submitted / assigned_reflections) * 100 Optional future version: •include reflection quality rubric Manager Score Manager rates 5 pillars from 1–5. manager_score = ((execution + communication + ownership + influence + leadership_behavior) / 25) * 100 Database Fields User Table •user_id •first_name •last_name •email •mobile •company_id •current_role •target_role •manager_id •status Lesson Activity Table •activity_id •user_id •lesson_id •delivered_at •opened_at •completed_at •completion_status Reflection Table •reflection_id •user_id •lesson_id •submitted_at •reflection_text •quality_score •reviewer_id Manager Evaluation Table •evaluation_id •user_id •evaluator_id •week_start •execution_score •communication_score •ownership_score •influence_score •leadership_behavior_score •notes Score Summary Table •summary_id •user_id •week_start •month •engagement_score •reflection_score •manager_score •overall_score •readiness_label •promotion_track ⸻ 8. API Endpoints Dashboard Summary GET /dashboard/org-summary Returns: •org score •readiness distribution •active users •coaching flags Promotion Pipeline GET /dashboard/pipeline Returns: •counts by readiness label •counts by role track Employee Detail GET /dashboard/users/{user_id} Returns: •personal score •pillar scores •trends •recent lessons •reflections •evaluations Trend Data GET /dashboard/trends?range=30d Returns: •org trend •team trend •employee trend Coaching Flags GET /dashboard/coaching-flags Returns: •flagged employees •reason •suggested coaching focus Submit Manager Evaluation POST /evaluations Payload: •user_id •week_start •execution_score •communication_score •ownership_score •influence_score •leadership_behavior_score •notes ⸻ 9. Frontend Components Executive View •metric cards •pipeline chart •readiness distribution bar chart •monthly trend line •top improvement list •high-risk list Manager View •direct report table •coaching flags •pillar comparison chart •weekly trend •employee drill-down Employee View •overall readiness score •pillar graph •role progression status •weekly lessons completed •reflections completed •growth trend ⸻ 10. UI Labels Use these exact labels where possible: •Overall Readiness Score •Promotion Track •Readiness Label •Pillar Breakdown •Score Trend •Coaching Attention Needed •Promotion Pipeline •Growth Over Time •Team Readiness •Development Priority ⸻ 11. Alert Logic Trigger alerts when: •overall score drops by 10+ points month-over-month •any pillar falls below 3.0 •3+ missed lessons in a row •reflections drop below 60% •manager score falls two cycles in a row Alert Types •Low Engagement •Low Ownership •Communication Risk •Promotion Readiness Stall •Coaching Needed ⸻ 12. Role Progression Logic Each user should have: •current_role •target_role •promotion_track_status Example •current_role: Agent •target_role: Lead •promotion_track_status: Almost Ready This should be visible on profile and admin dashboards. ⸻ 13. MVP Build Priority Phase 1 •user table •lesson activity tracking •simple score calculation •org dashboard summary •employee profile •readiness labels Phase 2 •pillar scoring •manager evaluation form •trend charts •coaching flags Phase 3 •role progression view •promotion recommendations •benchmark comparisons •AI coaching insights ⸻ 14. Product Rule The dashboard must answer these 3 business questions: 1.Who is ready to be promoted? 2.Who needs coaching right now? 3.Where is leadership growth improving or stalling? If the dashboard cannot answer those clearly, it is too complicated. TextmeSMP Supervisor Lessons Perfect. This is the level that makes textmeSMP undeniably valuable. We’re now building for: 👉 inexperienced supervisors who need clarity, not theory Every lesson will now include: •clear action •exact language •real scenario •do / don’t •reflection ⸻ 🔥 SUPERVISOR — WEEK 1 (REBUILT ELITE) Theme: You Now Own Team Performance ⸻"
+    }
+]

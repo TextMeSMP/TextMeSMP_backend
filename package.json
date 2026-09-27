@@ -1,0 +1,53 @@
+{
+  "name": "training-mvp-backend",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "tsx src/server.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck",
+    "migrate": "node dist/scripts/migrateAll.js",
+    "migrate:dev": "tsx src/scripts/migrateAll.ts",
+    "start": "node dist/server.js",
+    "migrate:admin-roles": "tsx src/scripts/runMigration.ts sql/007_admin_roles.sql",
+    "migrate:learner-login-link": "tsx src/scripts/runMigration.ts sql/008_link_login_to_learner.sql",
+    "migrate:learner-notifications": "tsx src/scripts/runMigration.ts sql/009_learner_notifications.sql",
+    "seed:lessons:agent": "npx tsx src/scripts/importLessons.ts data/lessons/agent.json --mode=upsert",
+    "seed:lessons:lead": "npx tsx src/scripts/importLessons.ts data/lessons/lead.json --mode=upsert",
+    "seed:lessons:manager": "npx tsx src/scripts/importLessons.ts data/lessons/manager.json --mode=upsert",
+    "seed:lessons:supervisor": "npx tsx src/scripts/importLessons.ts data/lessons/supervisor.json --mode=upsert",
+    "seed:lessons:executive": "npx tsx src/scripts/importLessons.ts data/lessons/executive.json --mode=upsert",
+    "seed:lessons": "npm run seed:lessons:agent && npm run seed:lessons:lead && npm run seed:lessons:manager && npm run seed:lessons:supervisor && npm run seed:lessons:executive",
+    "job:daily-send": "tsx src/crons/runDailySend.ts"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.7.0",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.10.0",
+    "pg": "^8.17.0",
+    "stripe": "^20.2.0",
+    "twilio": "^5.2.3",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^6.0.0",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.6",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^20.14.10",
+    "@types/pg": "^8.16.0",
+    "@types/stripe": "^8.0.416",
+    "nodemon": "^3.1.4",
+    "tsx": "^4.16.2",
+    "typescript": "^5.9.3"
+  }
+}
