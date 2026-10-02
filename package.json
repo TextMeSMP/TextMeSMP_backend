@@ -20,7 +20,8 @@
     "seed:lessons:supervisor": "npx tsx src/scripts/importLessons.ts data/lessons/supervisor.json --mode=upsert",
     "seed:lessons:executive": "npx tsx src/scripts/importLessons.ts data/lessons/executive.json --mode=upsert",
     "seed:lessons": "npm run seed:lessons:agent && npm run seed:lessons:lead && npm run seed:lessons:manager && npm run seed:lessons:supervisor && npm run seed:lessons:executive",
-    "job:daily-send": "tsx src/crons/runDailySend.ts"
+    "job:daily-send": "tsx src/crons/runDailySend.ts",
+    "test:core-mvp": "tsx src/scripts/verifyCoreMvp.ts"
   },
   "dependencies": {
     "bcrypt": "^6.0.0",
